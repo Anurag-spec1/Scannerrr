@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "364619925686",
+    "firebase_url": "https://chattingo-53a93-default-rtdb.firebaseio.com",
+    "project_id": "chattingo-53a93",
+    "storage_bucket": "chattingo-53a93.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364619925686:android:efe84667dae01291567e17",
+        "android_client_info": {
+          "package_name": "com.example.chattingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_HaCYIzcSHp2Ijqdr_tKBOuq0WGpFFM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364619925686:android:a09c230c5dd40f8c567e17",
+        "android_client_info": {
+          "package_name": "com.example.scannerrr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_HaCYIzcSHp2Ijqdr_tKBOuq0WGpFFM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

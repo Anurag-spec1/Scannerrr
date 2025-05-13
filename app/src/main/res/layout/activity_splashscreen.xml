@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:background="@drawable/img1"
+    android:layout_height="match_parent"
+    tools:context=".splashscreen">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Scannerr"
+        android:id="@+id/scaner"
+        android:textColor="@color/white"
+        android:textSize="45sp"
+        android:textStyle="bold"
+        android:layout_marginTop="45dp"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/orbitronlight"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="By"
+        android:id="@+id/scanerby"
+        android:textColor="@color/white"
+        android:textSize="45sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/scaner"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="cursive"/>
+
+    <com.github.ybq.android.spinkit.SpinKitView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/spin_kit"
+        style="@style/SpinKitView.Large.FadingCircle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="70dp"
+        app:SpinKit_Color="@color/white" />
+
+</RelativeLayout>
