@@ -5,19 +5,20 @@
 🚀 Features
 
 >📷 Fast QR code & barcode scanning                                                                                                                                                                                      
->🔦 Flashlight toggle for dark environments
->🖼️ Scan from camera or gallery
->🕘 Scan history (optional)
->🌐 Open scanned links in browser
->📋 Copy to clipboard
+>🔦 Flashlight toggle for dark environments                                                                                                                                                                              
+>🖼️ Scan from camera or gallery                                                                                                                                                                                          
+>🕘 Scan history (optional)                                                                                                                                                                                              
+>🌐 Open scanned links in browser                                                                                                                                                                                        
+>📋 Copy to clipboard                                                                                                                                                                                                    
 
 🛠 Tech Stack
 
->Language: Kotlin
->UI: XML Layouts
->Camera: CameraX or ZXing
->Libraries:ZXing (com.journeyapps:zxing-android-embedded)
->AndroidX, Material Design
+>Language: Kotlin                                                                                                                                                                                                         
+>UI: XML Layouts                                                                                                                                                                                                          
+>Camera: CameraX or ZXing                                                                                                                                                                                                 
+>Libraries:ZXing (com.journeyapps:zxing-android-embedded)                                                                                                                                                                 
+>AndroidX, Material Design                                                                                                                                                                                                
 
 📸 Screenshots
 
+![Scannerr -](https://github.com/user-attachments/assets/ea26edd7-b9bc-4dbd-ae8f-bf6514c655c0)
